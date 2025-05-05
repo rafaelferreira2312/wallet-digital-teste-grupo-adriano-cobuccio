@@ -9,12 +9,11 @@
 
 ## 🛠️ Stack Tecnológica Atualizada
 ### Categoria	Tecnologias
-- Backend	PHP 8.2, CodeIgniter 4.5, PHPStan (análise estática)
+- Backend	PHP 8.2, CodeIgniter 4.5
 - Banco	MySQL 8 (com transações ACID)
-- Segurança	JWT + Refresh Tokens, CORS, Rate Limiting, CSRF Protection
-- Infra	Docker Compose, Nginx (proxy reverso), Redis (cache)
-- Testes	PHPUnit 10 (90%+ coverage), Pest (BDD), Postman (contract tests)
-- Monitoramento	Prometheus + Grafana (métricas), Sentry (erros)
+- Segurança	JWT + Refresh Tokens, CORS,
+- Infra	Docker Compose
+- Testes PHPUnit 10 (Postman (contract tests)
 
 ## ⚙️ Instalação (Modo Docker)
 ```bash
